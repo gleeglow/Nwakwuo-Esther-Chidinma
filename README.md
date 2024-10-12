@@ -9,7 +9,7 @@
 - 💞 I'm looking to collaborate with Companies, Organizations or even Individuals to solve their Business Problems by leveraging Data.
 - With my love for building solutions to healp businesses, I began an Adventure into the Power Platform. I work with PowerApps, Power Automate, and Power Virtual Agents to automate Business Processes.
 - I am Open for Data Analytics Role as I am currently Searching for a Data Analyst role.
-- 📫 How to reach me 
+- 📫 How to reach me: www.linkedin.com/in/nwakwuo-esther-chidinma-b87002257
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love Learning, Developing, Coaching and telling Data Driven Stories.
 
