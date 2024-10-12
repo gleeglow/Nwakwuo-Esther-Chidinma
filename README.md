@@ -1,8 +1,8 @@
 - ### Hi there!
-- 
+  
 - ## I am Nwakwuo Esther Chidinma
 
-- ## I am a Data Analyst
+- ## I am a Data Analyst/Business Intelligence Analyst
 - 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
