@@ -5,7 +5,7 @@
 - ## I am a Data Analyst/Business Intelligence Analyst
 
 - You can call me a 'Data Lord' as I love to clean, Transform, Model and Analyse Data for business insights.
-- I'm currently learning, working on several Projects to challenge myself and growing my Data Analytics and Science Skils.
+- I'm currently learning, working on several Projects to challenge myself and growing my Data Analytics and Science Skills.
 - 💞 I'm looking to collaborate with Companies, Organizations or even Individuals to solve their Business Problems by leveraging Data.
 - With my love for building solutions to healp businesses, I began an Adventure into the Power Platform. I work with PowerApps, Power Automate, and Power Virtual Agents to automate Business Processes.
 - I am Open for Data Analytics Role as I am currently Searching for a Data Analyst role.
